@@ -33,4 +33,5 @@ function abrirCategoria (){
 
 btnCategoria.addEventListener('click', abrirCategoria)
 
+teste do github desktop
 
